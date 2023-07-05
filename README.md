@@ -1,3 +1,3 @@
-#Eccomerce Project
+# Eccomerce Project
 
-###A simple Ecommece site created used next and sanity 
+### A simple Ecommece site created used next and sanity 
